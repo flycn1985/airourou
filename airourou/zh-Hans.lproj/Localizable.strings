@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  airourou
+
+  Created by isno on 16/4/21.
+  Copyright © 2016年 isno. All rights reserved.
+*/
+"Take Photo" = "拍照";
+"Photo Library" = "相册";
+"Saved Photos" = "时刻";
+"Clear Photo" = "清除";
+"Cancel" = "取消";

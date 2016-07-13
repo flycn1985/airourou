@@ -1,0 +1,71 @@
+PODS:
+  - DKImagePickerController (3.1.3):
+    - DKImagePickerController/Camera (= 3.1.3)
+    - DKImagePickerController/ImageManager (= 3.1.3)
+  - DKImagePickerController/Camera (3.1.3)
+  - DKImagePickerController/ImageManager (3.1.3)
+  - Eureka (1.5.0)
+  - IQKeyboardManagerSwift (4.0.1)
+  - KMPlaceholderTextView (1.2.0)
+  - KVOController (1.1.0)
+  - MJRefresh (3.1.0)
+  - PageMenu (1.2.9)
+  - ReachabilitySwift (2.3.3)
+  - RongCloudIMKit (2.4.11)
+  - SDCycleScrollView (1.64):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - Siren (0.7.0)
+  - SnapKit (0.20.0)
+  - SVProgressHUD (2.0.3)
+  - SwiftHTTP (1.0.5)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - DKImagePickerController
+  - Eureka
+  - IQKeyboardManagerSwift
+  - KMPlaceholderTextView
+  - KVOController
+  - MJRefresh
+  - PageMenu
+  - ReachabilitySwift (from `https://github.com/ashleymills/Reachability.swift`)
+  - RongCloudIMKit (= 2.4.11)
+  - SDCycleScrollView
+  - SDWebImage
+  - Siren
+  - SnapKit
+  - SVProgressHUD
+  - SwiftHTTP
+  - SwiftyJSON
+
+EXTERNAL SOURCES:
+  ReachabilitySwift:
+    :git: https://github.com/ashleymills/Reachability.swift
+
+CHECKOUT OPTIONS:
+  ReachabilitySwift:
+    :commit: fa90df50c04f5743fbdf643cbe8d10562d75673d
+    :git: https://github.com/ashleymills/Reachability.swift
+
+SPEC CHECKSUMS:
+  DKImagePickerController: 5ad3a065e65287c1584e4250e378f99102e2753e
+  Eureka: 2fb37bb50569c62ee3284689d5b7aca694b040e0
+  IQKeyboardManagerSwift: e92246955e21dad73ad9dc89b80adb134d8bb395
+  KMPlaceholderTextView: cae8ee889bd38d20587eee6b2623b8218f31b8f5
+  KVOController: 321b5fc59300fcaabd42c0f679baa7a27efbb2fd
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  PageMenu: ba19ff267f7a19e444e93c20a7847b78954a7011
+  ReachabilitySwift: e0f6b6f280effb47731acfaaa2d5ffe223703793
+  RongCloudIMKit: 40fefc63541927aad728e06c731d12d34de1c5fa
+  SDCycleScrollView: 806fedb9342ab03b58b84442f985517b42c7cbb7
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  Siren: b302660e1bf19537705a15aa3460fb328a3e8eb9
+  SnapKit: 5fce3c1bbbf1fbd31de9aa92f33eb9fa03f15650
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  SwiftHTTP: edb45e72f27d1d95d328d2b2c16a61aa94f1e9f7
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
