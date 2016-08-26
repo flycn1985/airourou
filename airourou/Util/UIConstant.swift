@@ -16,14 +16,15 @@ public let AppScale = UIScreen.mainScreen().scale
 public struct UIConstant {
     static let AppBackgroundColor = UIColor(rgba:"#eeeeee")
     static let FontLightColor = UIColor(rgba: "#48c840")
+    // 用于分享
+    static let UMAppKey = ""
     
-    static let UMAppKey = "569dfd7ee0f55abf17000859"
-    
-    static let WeixinAppID = "wxdfd3c5c219106fcc"
-    static let WeixinAppSecret = "d55853d22fedc63be63575a7ab069941"
-    
-    static let QQAppID =  "1105083994"
-    static let QQAPPKEY = "DnqkGs1qkFDg3mvc"
+    // 微信分享
+    static let WeixinAppID = ""
+    static let WeixinAppSecret = ""
+    // QQ分享
+    static let QQAppID =  ""
+    static let QQAPPKEY = ""
     static let AppDomain = "http://www.airourou.me/api/"
     static let PicDomain = "http://airourou-pics.b0.upaiyun.com"
     static let ImageUploadScale:CGFloat = 0.5
